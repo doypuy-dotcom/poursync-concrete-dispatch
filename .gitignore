@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+code/aiconcrete.py
+data/
+_try_plan.csv
+.DS_Store

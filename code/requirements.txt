@@ -1,0 +1,3 @@
+# AI Concrete - teamXX
+# ใช้ Python standard library อย่างเดียว ไม่ต้องติดตั้งอะไรเพิ่ม
+# ทดสอบบน Python 3.12.8 (ต้องการ 3.9+)
